@@ -1,0 +1,1 @@
+/home/zayyadbutt/projects/communicator/target/debug/libcommunicator.rlib: /home/zayyadbutt/projects/communicator/src/client.rs /home/zayyadbutt/projects/communicator/src/lib.rs /home/zayyadbutt/projects/communicator/src/network/mod.rs /home/zayyadbutt/projects/communicator/src/network/server.rs

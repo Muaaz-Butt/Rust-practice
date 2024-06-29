@@ -1,0 +1,6 @@
+[package]
+name = "count_no_of_words"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
