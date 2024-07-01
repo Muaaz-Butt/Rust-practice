@@ -25,7 +25,7 @@ fn find_largest_in_array_char (list: &[char]) -> char {
 
 //Now move to generics and you do not need to make function for each data type
 
-fn largest<T: PartialOrd + Copy>(list: &[T]) -> T {
+fn largest<T: PartialOrd + Copy>(list: &[T]) -> T {               //PartialOrd and copy are traits
     let mut largest = list[0];
     
     for &num in list.iter() {
