@@ -6,11 +6,11 @@ fn main() {
     let tup1 = (10, 10.1, 'a');
     let tup2: (u8, i32, f64) = (2, 23, 64.11);  // Eplicitly define data types UTF
     
-    let (x, y, z) = tup2;  //This method is called destructuring
+    let (x, y, z) = tup2;         //This method is called destructuring
     
     println!("The value of y: {}", y);
     
-    let ten = tup1.0;                    //This way of assigning to variables is called indexing 
+    let ten = tup1.0;                       //This way of assigning to variables is called indexing 
     let ten_point_one = tup1.1;
     let a = tup1.2;
     
