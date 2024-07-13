@@ -1,6 +1,9 @@
 [package]
-name = "guessing_game"
+name = "muaaz_guessing_game"
 version = "0.1.0"
+authors = ["Muaaz Butt <muaazbutt585@gmail.com>"]
+description = "A fun game where you guess what number the computer has chosen"
+license = "MIT"
 edition = "2021"
 
 [dependencies]
