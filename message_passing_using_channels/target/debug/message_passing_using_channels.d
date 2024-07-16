@@ -1,0 +1,1 @@
+/home/zayyadbutt/Documents/Rust-practice/message_passing_using_channels/target/debug/message_passing_using_channels: /home/zayyadbutt/Documents/Rust-practice/message_passing_using_channels/src/main.rs
