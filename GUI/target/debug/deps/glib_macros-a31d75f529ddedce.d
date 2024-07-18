@@ -1,0 +1,9 @@
+/home/zayyadbutt/Documents/Rust-practice/GUI/target/debug/deps/libglib_macros-a31d75f529ddedce.so: /home/zayyadbutt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glib-macros-0.10.1/src/lib.rs /home/zayyadbutt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glib-macros-0.10.1/src/gboxed_derive.rs /home/zayyadbutt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glib-macros-0.10.1/src/genum_derive.rs /home/zayyadbutt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glib-macros-0.10.1/src/gflags_attribute.rs /home/zayyadbutt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glib-macros-0.10.1/src/utils.rs
+
+/home/zayyadbutt/Documents/Rust-practice/GUI/target/debug/deps/glib_macros-a31d75f529ddedce.d: /home/zayyadbutt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glib-macros-0.10.1/src/lib.rs /home/zayyadbutt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glib-macros-0.10.1/src/gboxed_derive.rs /home/zayyadbutt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glib-macros-0.10.1/src/genum_derive.rs /home/zayyadbutt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glib-macros-0.10.1/src/gflags_attribute.rs /home/zayyadbutt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glib-macros-0.10.1/src/utils.rs
+
+/home/zayyadbutt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glib-macros-0.10.1/src/lib.rs:
+/home/zayyadbutt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glib-macros-0.10.1/src/gboxed_derive.rs:
+/home/zayyadbutt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glib-macros-0.10.1/src/genum_derive.rs:
+/home/zayyadbutt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glib-macros-0.10.1/src/gflags_attribute.rs:
+/home/zayyadbutt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/glib-macros-0.10.1/src/utils.rs:
