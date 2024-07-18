@@ -1,0 +1,1 @@
+/home/zayyadbutt/Documents/Rust-practice/blog_post_workflow/target/debug/main: /home/zayyadbutt/Documents/Rust-practice/blog_post_workflow/src/bin/main.rs /home/zayyadbutt/Documents/Rust-practice/blog_post_workflow/src/lib.rs
